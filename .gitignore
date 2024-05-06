@@ -129,7 +129,6 @@ dmypy.json
 .pyre/
 
 docs/ppt/
-checkpoints/
 *.tar
 *.patch
 *.zip
