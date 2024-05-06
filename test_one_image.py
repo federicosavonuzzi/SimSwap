@@ -9,7 +9,7 @@ from torchvision import transforms
 from models.models import create_model
 from options.test_options import TestOptions
 
-
+#main class
 def lcm(a, b): return abs(a * b) / fractions.gcd(a, b) if a and b else 0
 
 transformer = transforms.Compose([
